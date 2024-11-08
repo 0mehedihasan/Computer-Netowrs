@@ -1,4 +1,4 @@
-# Computer-Netowrks
+# Computer Networks
 ## Course Code  : CSE 320
 ## Course Title : Computer Networks Lab
 ## Course Type  : Core Course
